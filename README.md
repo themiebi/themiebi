@@ -36,7 +36,8 @@
 <h2>Where to find me</h2>
   <a href="https://www.linkedin.com/in/timiebi-oyinpere-25925a8b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://www.instagram.com/themiebi" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</p>
+  <a href="https://www.showwcase.com/tio-dataops"target="_blank"><img alt="Showcase" src="https://img.shields.io/badge/showcase-%23dc2743.svg?&style=for-the-badge&logo=showcase&logoColor=white" />
+  </p>
 
 <!---
 TiO-DataOps/TiO-DataOps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
