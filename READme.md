@@ -30,10 +30,8 @@
 ##
  <h2>Skills</h2>
  <p style="display: inline_block">
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
- <p style="display: inline_block">
-<img align="center" alt="excel" src="https://img.shields.io/badge/Excel-FFD43B?style=for-the-badge&logo=excel&logoColor=blue" />
-
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img align="center" alt="excel" src="https://img.shields.io/badge/Excel-FFD43B?style=for-the-badge&logo=excel&logoColor=blue" />
+  
 ##
 <h2>Where to find me</h2>
   <a href="https://www.linkedin.com/in/timiebi-oyinpere-25925a8b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
