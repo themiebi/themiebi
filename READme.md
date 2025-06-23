@@ -30,7 +30,7 @@
 ##
  <h2>Skills</h2>
  <p style="display: inline_block">
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img align="center" alt="excel" src="https://img.shields.io/badge/Excel-FFD43B?style=for-the-badge&logo=excel&logoColor=blue" />
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img align="center" alt="excel" src="https://img.shields.io/badge/Excel-FFD43B?style=for-the-badge&logo=excel&logoColor=blue" /> <img align="center" alt="powerbi" src="https://img.shields.io/badge/PowerBI-FFD43B?style=for-the-badge&logo=powerbi&logoColor=black" />
   
 ##
 <h2>Where to find me</h2>
