@@ -35,7 +35,7 @@
 ##
 <h2>Where to find me</h2>
   <a href="https://www.linkedin.com/in/timiebi-oyinpere-25925a8b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="https://x.com/themiebi" target="_blank"><img alt="x" src="https://img.shields.io/badge/x-%000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://x.com/themiebi" target="_blank"><img alt="x" src="https://img.shields.io/badge/x-#1DA1F2.svg.svg?&style=for-the-badge&logo=x&logoColor=white" />
   <a href="https://www.instagram.com/themiebi" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/instagram-%E4405F.svg?&style=for-the-badge&logo=x&logoColor=white" />
   </p>
 
