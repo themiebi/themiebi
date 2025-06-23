@@ -9,16 +9,12 @@
   Hi 👋, I'm Timiebi Oyinpere.
 </h1>
 
-
 ##
 <p align="center">
-  
-  <img height="160em" 
-       src="https://github-readme-stats.vercel.app/api
-    username=themiebi&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="160em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=themiebi&layout=compact&theme=react" /> 
+  <a href="https://github.com/themiebi">
 </p>
+
+
 
 ##
 <p align="center">
