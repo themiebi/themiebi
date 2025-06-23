@@ -6,7 +6,7 @@
 
 ##
 <h1 align="center">
-  Hi 👋, I'm Timiebi Oyinpere, and this is all new to me.
+  Hi 👋, I'm Timiebi Oyinpere.
 </h1>
 
 <p align="center">
