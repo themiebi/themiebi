@@ -11,11 +11,6 @@
 
 ##
 <p align="center">
-  <a href="https://github.com/themiebi">
-</p>
-
-##
-<p align="center">
  <img height="160em" 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themiebi&theme=github" />
 </p>
